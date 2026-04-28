@@ -70,7 +70,7 @@ public class BizumPaymentService {
                     "success=" + success +
                     ", message='" + message + '\'' +
                     ", operationId='" + operationId + '\'' +
-                    ", timestamp=" + timestamp +
+                    ", timestampfienrelñkseoidñe=" + timestamp +
                     '}';
         }
     }
